@@ -31,4 +31,6 @@ https://raw.githubusercontent.com/w37fhy/QuantumultX/master/w37fhy_diy.conf
 
 ▎Shawn配置
 https://raw.githubusercontent.com/Sonmbs/quantumult_X/main/coconut.conf
+
 个人推荐墨鱼
+
